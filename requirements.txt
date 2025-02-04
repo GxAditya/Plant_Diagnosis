@@ -2,5 +2,4 @@ tensorflow
 streamlit
 numpy
 matplotlib
-os
 PIL
