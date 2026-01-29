@@ -24,7 +24,6 @@ The application provides an intuitive web interface built with Streamlit for eas
 - **Deep Learning Framework**: TensorFlow/Keras
 - **Model Architecture**: Convolutional Neural Network (CNN)
 - **Web Framework**: Streamlit
-- **Image Processing**: PIL (Python Imaging Library)
 - **Scientific Computing**: NumPy
 - **Visualization**: Matplotlib
 
