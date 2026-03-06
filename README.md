@@ -1,10 +1,19 @@
-# Plant Disease Detection System
+<div align="center">
+  <img src="./Plant.png" width="120" height="120" alt="Plant Disease Detection">
+</div>
 
-A deep learning-based system for detecting potato plant diseases using Convolutional Neural Networks (CNN). This project helps farmers and agricultural professionals identify plant diseases early, enabling timely intervention and crop protection.
+<h1 align="center">Plant Disease Detection System</h1>
+
+<p align="center">
+  A deep learning-based system for detecting potato plant diseases using Convolutional Neural Networks (CNN). This project helps farmers and agricultural professionals identify plant diseases early, enabling timely intervention and crop protection.
+</p>
+
+---
 
 ## Overview
 
 This system uses a trained CNN model to classify potato plant diseases from leaf images. The model can identify three conditions:
+
 - Early Blight
 - Late Blight
 - Healthy
@@ -21,11 +30,14 @@ The application provides an intuitive web interface built with Streamlit for eas
 
 ## Technology Stack
 
-- **Deep Learning Framework**: TensorFlow/Keras
-- **Model Architecture**: Convolutional Neural Network (CNN)
-- **Web Framework**: Streamlit
-- **Scientific Computing**: NumPy
-- **Visualization**: Matplotlib
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-FFB000?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+</p>
 
 ## Project Structure
 
@@ -131,7 +143,7 @@ Aditya Kumar
 
 - GitHub: [GxAditya](https://github.com/GxAditya)
 - LinkedIn: [Aditya Kumar](https://linkedin.com/in/aditya-kumar-3721012aa)
-- Twitter: [@kaditya264](https://x.com/kaditya264?s=09)
+- X (Twitter): [@kaditya264](https://x.com/kaditya264?s=09)
 
 ## Acknowledgments
 
